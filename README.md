@@ -11,7 +11,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Active Directory Home Lab Attempt 1](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
 
 
 
