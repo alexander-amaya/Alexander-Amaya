@@ -2,12 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) DO AND CHANGE LATER
+ 
 
 
 <h2> 📃 Certifications </h2>
 
-- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/ba644272-11ed-4438-b7c2-7d21f1469918/public_url) 
+- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/ba644272-11ed-4438-b7c2-7d21f1469918/public_url)
+
+- [Google Cybersecurity Certification](https://www.coursera.org/account/accomplishments/specialization/LT5ZRZ6HYHB4)
 
 <h2>📺 YouTube Videos</h2>
 
